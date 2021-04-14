@@ -1,0 +1,17 @@
+.main{
+    background-color: lightblue;
+    border: solid 1px black; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+}
+.container{
+    background-color: pink;
+    border: solid 1px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 25%;
+    height: 75%;
+}
